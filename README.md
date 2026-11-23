@@ -13,6 +13,6 @@ Open either notebook to see its results and charts. To reproduce them, keep the 
 
 Pune added 943 orders between Q2 and Q3. Two new stores accounted for 882 of them. ColdSense flagged 159 freezer-hours and correctly identified 16 of the 46 confirmed fault-hours at its default threshold.
 
-The activities and synthetic datasets are adapted from [Deekshitha Marapareddy’s reference repository](https://github.com/DeekshithaMarapareddy/PES2UG24CS268-assignment4). This version corrects calculation and code errors and includes recomputed results and written responses.
+The activities and synthetic datasets are adapted from [Reference repository](https://github.com/DeekshithaMarapareddy/PES2UG24CS268-assignment4). This version corrects calculation and code errors and includes recomputed results and written responses.
 
 [Orders pull request](https://github.com/saianeesh-debug/PES2UG24CS615-assignment4/pull/1) · [Freezers pull request](https://github.com/saianeesh-debug/PES2UG24CS615-assignment4/pull/2)
